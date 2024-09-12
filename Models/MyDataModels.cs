@@ -1,0 +1,11 @@
+﻿namespace CompanyAnalysisApp.Models
+{
+    public class MyDataModels
+    {
+        public string LargestCompany { get; set; }
+        public string Name { get; set; }
+        public string Age { get; set; }
+        public string University { get; set; }
+        public string Specialty { get; set; }
+    }
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pMGXsd7TV8YzF+GLjAdvvlD/gQLRUAC7RhG0ogfaF9dxZOSVpzX4WOP/DsyUynTisI7+91Y+1mggJRSxq5o0xg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mishv\\OneDrive\\Рабочий стол\\LR PR SEM3\\Visual studio\\CompanyAnalysisApp\\CompanyAnalysisApp\\CompanyAnalysisApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mishv\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

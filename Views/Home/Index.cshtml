@@ -1,0 +1,23 @@
+﻿@{
+    ViewData["Title"] = "LR2";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+@model MyDataModels
+
+<div style="margin: 50px 0;">
+    <h2>Найбільша компанія</h2>
+    <p>Компанія з найбільшою кількістю співробітників: <strong>@Model.LargestCompany</strong></p>
+</div>
+
+<div style="margin: 50px 0;">
+    <h2>Особиста інформація</h2>
+    <p>Ім'я: <strong>@Model.Name</strong></p>
+    <p>Вік: <strong>@Model.Age</strong></p>
+    <p>Університет: <strong>@Model.University</strong></p>
+    <p>Спеціальність: <strong>@Model.Specialty</strong></p>
+</div>
